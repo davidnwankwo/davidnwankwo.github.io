@@ -81,7 +81,7 @@ body {
 
 @media (max-width: 581px) {
   .header {
-    left: 50%;
+    left: 45%;
     /* margin-left: 50%; */
     font-size: 3rem;
   }
